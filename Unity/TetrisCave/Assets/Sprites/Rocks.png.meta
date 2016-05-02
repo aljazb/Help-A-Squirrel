@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: d49c4bb0209b0b243bce11e3f0f9419f
+timeCreated: 1440093892
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Rocks_0
+    21300002: Rocks_1
+    21300004: Rocks_2
+    21300006: Rocks_3
+    21300008: Rocks_4
+    21300010: Rocks_5
+    21300012: Rocks_6
+    21300014: Rocks_7
+    21300016: Rocks_8
+    21300018: Rocks_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Rocks_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 795
+        width: 337
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rocks_1
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 731
+        width: 538
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rocks_2
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1027
+        width: 339
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rocks_3
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 568
+        width: 254
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rocks_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 365
+        width: 617
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rocks_5
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 260
+        width: 189
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rocks_6
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 365
+        width: 335
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rocks_7
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 222
+        width: 555
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rocks_8
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 26
+        width: 269
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rocks_9
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 5
+        width: 519
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

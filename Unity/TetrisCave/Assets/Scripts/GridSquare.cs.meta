@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 340296f85db1deb43a5bea6ca56fc26c
+timeCreated: 1439730918
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - squareFramePrefab: {fileID: 123236, guid: dad9ff87d0c0dda489010a9da20a4eaa, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
